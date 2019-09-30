@@ -1,0 +1,15 @@
+.cat-cafe {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; /*horizontal */
+  align-items: center; /*vertical*/
+  background: lightskyblue;
+  height: 500px;
+}
+
+.kitten {
+  height: 100px;
+  width: 200px;
+  border: 1 solid snow;
+  background: lightpink;
+}
